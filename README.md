@@ -3,7 +3,7 @@
   <img alt="alt_text" width="100px" align="right" src="https://img.dmzabelin.online/images/dm_logo.svg" />
   </a>
 </div>
-<h1>Hey! :v:<br> I'm passionate JavaScript developer.</h1>
+<h2>Hey! :v:<br> I'm passionate JavaScript developer.</h2>
 
 Some information about me:<br>
 In the last year, I improved my knowledge of full stack development in JavaScript (ES6+, React JS, and Node JS).<br>
