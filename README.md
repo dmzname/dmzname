@@ -21,8 +21,6 @@ One of the primary goals is to become a sought-after specialist in JavaScript de
 
 </br></br>
 
-### Connect with me: 
+### Contacts:
 
-<p align="left">
-<a href="https://dev.to/mauroerta](https://www.linkedin.com/in/dmitry-zabelin-6041b9186" target="blank">linkedin</a>
-</p>
+[website](https://dmzabelin.online) | [telegram](https://t.me/dmZabelin) | [linkedin](https://www.linkedin.com/in/dmitry-zabelin-6041b9186/)
