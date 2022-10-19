@@ -12,15 +12,11 @@ One of the primary goals is to become a sought-after specialist in JavaScript de
 
 ### Languages and Tools:
 
-<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/dmZabelin/dmZabelin/main/img/JS.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="NODE JS" width="96px" src="https://raw.githubusercontent.com/dmZabelin/dmZabelin/main/img/Node.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="REACT JS" width="28px" src="https://raw.githubusercontent.com/dmZabelin/dmZabelin/main/img/React.svg" />
+<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/dmZabelin/dmZabelin/main/img/JS.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="NODE JS" width="96px" src="https://raw.githubusercontent.com/dmZabelin/dmZabelin/main/img/Node.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="REACT JS" width="28px" src="https://raw.githubusercontent.com/dmZabelin/dmZabelin/main/img/React.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/dmZabelin/dmZabelin/main/img/typescript-logo-svgrepo-com.svg" />
 
-<img align="left" alt="MONGO DB" width="110px" src="https://raw.githubusercontent.com/dmZabelin/dmZabelin/main/img/MongoDB_Logo.svg" />
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/dmZabelin/dmZabelin/main/img/HTML5.svg" />
-<img align="left" alt="CSS3" width="21px" src="https://raw.githubusercontent.com/dmZabelin/dmZabelin/main/img/CSS3.svg" />
-<img align="left" alt="PUG" width="38px" src="https://raw.githubusercontent.com/dmZabelin/dmZabelin/main/img/pug.svg" />
-<img align="left" alt="SASS" width="35px" src="https://raw.githubusercontent.com/dmZabelin/dmZabelin/main/img/Sass.svg" />
+<img alt="HTML5" width="30px" src="https://raw.githubusercontent.com/dmZabelin/dmZabelin/main/img/HTML5.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="CSS3" width="21px" src="https://raw.githubusercontent.com/dmZabelin/dmZabelin/main/img/CSS3.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="PUG" width="38px" src="https://raw.githubusercontent.com/dmZabelin/dmZabelin/main/img/pug.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="SASS" width="35px" src="https://raw.githubusercontent.com/dmZabelin/dmZabelin/main/img/Sass.svg" />
 
-</br>
+<img alt="MONGO DB" width="110px" src="https://raw.githubusercontent.com/dmZabelin/dmZabelin/main/img/MongoDB_Logo.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Postgresql" width="30px" src="https://raw.githubusercontent.com/dmZabelin/dmZabelin/main/img/Postgresql_elephant.svg" />
 
 ### Contacts:
 
