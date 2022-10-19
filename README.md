@@ -12,14 +12,17 @@ One of the primary goals is to become a sought-after specialist in JavaScript de
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/dmZabelin/dmZabelin/main/img/HTML5.svg" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-</br></br>
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/dmZabelin/dmZabelin/main/img/JS.svg" />
+<img align="left" alt="NODE JS" width="96px" src="https://raw.githubusercontent.com/dmZabelin/dmZabelin/main/img/Node.svg" />
+<img align="left" alt="REACT JS" width="28px" src="https://raw.githubusercontent.com/dmZabelin/dmZabelin/main/img/React.svg" />
+<img align="left" alt="MONGO DB" width="110px" src="https://raw.githubusercontent.com/dmZabelin/dmZabelin/main/img/MongoDB_Logo.svg" />
+<img align="left" alt="SASS" width="35px" src="https://raw.githubusercontent.com/dmZabelin/dmZabelin/main/img/Sass.svg" />
+<img align="left" alt="PUG" width="38px" src="https://raw.githubusercontent.com/dmZabelin/dmZabelin/main/img/pug.svg" />
+<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/dmZabelin/dmZabelin/main/img/HTML5.svg" />
+<img align="left" alt="CSS3" width="21px" src="https://raw.githubusercontent.com/dmZabelin/dmZabelin/main/img/CSS3.svg" />
+
+</br>
 
 ### Contacts:
 
