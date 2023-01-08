@@ -16,4 +16,4 @@ One of the primary goals is to become a sought-after specialist in JavaScript de
  
 ### Contacts:
 
-[website](https://dmzabelin.online) | [telegram](https://t.me/dmZabelin) | [linkedin](https://www.linkedin.com/in/dmitry-zabelin-6041b9186/)
+[website](https://dmz.name) | [telegram](https://t.me/dmZabelin) | [linkedin](https://www.linkedin.com/in/dmitry-zabelin-6041b9186/)
