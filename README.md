@@ -15,6 +15,6 @@ One of the primary goals is to become a sought-after specialist in JavaScript de
 
 <div>  
   <a href="https://dmz.name/" target="blank">
-  <img alt="alt_text" width="175px" align="right" src="https://github.com/dmZabelin/dmZabelin/blob/1d95e7160bb0c63d4c56bbd4ac628013e56f9524/img/logo-dm.zabelin.svg" />
+  <img alt="alt_text" width="50px" align="right" src="https://raw.githubusercontent.com/dmzname/dmzname/e6567aa059bcfb69cb86d72f1d77ddf627c1c18b/img/zd_logo.svg" />
   </a>
 </div>
