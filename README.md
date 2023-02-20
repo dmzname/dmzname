@@ -8,7 +8,7 @@ specialist in JavaScript development.
 
 ### Languages and Tools:
 
-<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/dmZabelin/dmZabelin/main/img/JS.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="NODE JS" width="96px" src="https://raw.githubusercontent.com/dmZabelin/dmZabelin/main/img/Node.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="REACT JS" width="28px" src="https://raw.githubusercontent.com/dmZabelin/dmZabelin/main/img/React.svg" /> . . . and more
+<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/dmZabelin/dmZabelin/main/img/JS.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="NODE JS" width="96px" src="https://raw.githubusercontent.com/dmZabelin/dmZabelin/main/img/Node.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="REACT JS" width="28px" src="https://raw.githubusercontent.com/dmZabelin/dmZabelin/main/img/React.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="REACT JS" width="28px" src="https://raw.githubusercontent.com/dmzname/dmzname/main/img/typescript-logo-svgrepo-com.svg" />&nbsp;&nbsp;&nbsp; . . . and more
  
 ### Contacts:
 
