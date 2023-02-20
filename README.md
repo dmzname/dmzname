@@ -1,7 +1,9 @@
 <h2>Hey! :v:<br> I'm passionate JavaScript developer.</h2>
 
 Some information about me:
-In the past year, I have improved my knowledge of full-stack development using JavaScript (ES6+, React JS, and Node JS). One of my primary goals is to become a sought-after specialist in JavaScript development.
+In the past year, I have improved my knowledge of full-stack development using JavaScript 
+(ES6+, React JS, and Node JS). One of my primary goals is to become a sought-after 
+specialist in JavaScript development.
 </br>
 
 ### Languages and Tools:
