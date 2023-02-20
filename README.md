@@ -12,7 +12,7 @@ specialist in JavaScript development.
  
 ### Contacts:
 
-[website](https://dmz.name) | [telegram](https://t.me/dmZabelin) | [linkedin](https://www.linkedin.com/in/dmitry-zabelin-6041b9186/)
+[website](https://dmz.name) | [telegram](https://t.me/dmzname) | [linkedin](https://www.linkedin.com/in/dmitry-zabelin-6041b9186/)
 
 <div>  
   <a href="https://dmz.name/" target="blank">
