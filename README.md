@@ -16,6 +16,6 @@ specialist in JavaScript development.
 
 <div>  
   <a href="https://dmz.name/" target="blank">
-  <img alt="alt_text" width="50px" align="right" src="https://raw.githubusercontent.com/dmzname/dmzname/main/img/zd_logo.svg" />
+  <img alt="alt_text" width="50px" align="right" src="https://raw.githubusercontent.com/dmzname/dmzname/main/img/dmz_logo.svg" />
   </a>
 </div>
